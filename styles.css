@@ -96,6 +96,11 @@ a:hover {
     color: #ff4444;
 }
 
-#roundimg {
-  border-radius: 100%;
+#contacttwitterpfp {
+  border-radius: 50%;
+  vertical-align:middle;
+}
+
+#contactemailtext {
+  color: #7985E0;
 }
