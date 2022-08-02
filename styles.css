@@ -71,3 +71,23 @@ a:hover {
 .footer {
     opacity: 10%;
 }
+
+.menumobile {
+    display: none;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .menumobile {
+      display: block;
+    }
+  }
+  
+
+#errorline {
+    text-align: center;
+    color: #ff4444;
+  }
+
+#errorline a {
+    color: #ff4444;
+}
