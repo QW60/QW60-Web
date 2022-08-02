@@ -101,6 +101,6 @@ a:hover {
   vertical-align:middle;
 }
 
-#contactemailtext {
+#contactemailtext a {
   color: #7985E0;
 }
