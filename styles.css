@@ -95,3 +95,7 @@ a:hover {
 #errorline a {
     color: #ff4444;
 }
+
+#roundimg {
+  border-radius: 100%;
+}
