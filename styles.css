@@ -111,12 +111,15 @@ a:hover {
 }
 
 #appicon {
-  margin-right: 5px;
   border-radius: 100px;
 }
 
 #downloadbutton {
   color: #50C878;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #242424;
+  width: 150px;
 }
 
 #downloadbutton:hover {
