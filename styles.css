@@ -121,6 +121,7 @@ a:hover {
   border-radius: 5px;
   padding: 5px;
   background-color: #242424;
+  width: 150px;
 }
 
 #downloadbutton:hover {
