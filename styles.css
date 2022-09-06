@@ -108,4 +108,6 @@ a:hover {
 .featured {
   border-radius: 10px;
   background-color: #171717;
+  margin: 5px;
+  width: 400;
 }
