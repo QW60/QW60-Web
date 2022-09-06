@@ -108,6 +108,21 @@ a:hover {
 .featured {
   border-radius: 10px;
   background-color: #171717;
-  margin: 5px;
-  width: 400;
+  padding: 5px;
+}
+
+#appicon {
+  margin-right: 5px;
+  border-radius: 100px;
+}
+
+#downloadbutton {
+  color: #50C878;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #242424;
+}
+
+#downloadbutton:hover {
+  color: #4F7942;
 }
