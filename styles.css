@@ -104,3 +104,8 @@ a:hover {
 #contactemailtext a {
   color: #7985E0;
 }
+
+.featured {
+  border-radius: 10px;
+  background-color: #171717;
+}
