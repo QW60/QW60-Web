@@ -125,3 +125,11 @@ a:hover {
 #downloadbutton:hover {
   color: #4F7942;
 }
+
+#donatebuttonpaypal {
+  color: #4c85d6;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #242424;
+  width: 150px;
+}
